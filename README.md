@@ -1,1 +1,1 @@
-# curso-python
+# Jogo papel, tesoura, pedra
